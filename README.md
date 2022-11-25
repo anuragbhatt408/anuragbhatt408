@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anuragbhatt408
 - 👀 I’m interested in MERN
 - 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on React Projects
+- 💞️ I’m looking to collaborate on Web App Projects
 - 📫 How to reach me anuragbhatt408@gmail.com
 
 <!---
